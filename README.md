@@ -1,0 +1,1 @@
+Este repositorio contiene todo lo referente  las evaluaciones de stock de crustáceos (langostino colorado, langostino amarillo y camarón nailon) y de peces demersales (cojinova, brótula y merluza de cola), tales como modelos, archivos de R, entre otros
